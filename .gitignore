@@ -1,0 +1,16 @@
+# Node.js dependencies
+agent-ts/node_modules/
+agent-ts/.env
+
+# Node.js dependencies
+copilot-runtime/node_modules/
+copilot-runtime/.env
+copilot-runtime/dist
+
+
+ui/node_modules/
+ui/.next
+
+
+# LangGraph API
+agent-ts/.langgraph_api
