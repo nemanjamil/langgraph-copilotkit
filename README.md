@@ -90,6 +90,11 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 ---
 
+## 5. Access LangGraph Studio
+Open your browser and navigate to this [url](https://smith.langchain.com/studio?baseUrl=http://localhost:8123) to access LangGraph studio.
+
+---
+
 ## Notes
 - Ensure all services are running concurrently for proper functionality.
 - Confirm that environment variables are correctly set for the agent.
